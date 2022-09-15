@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SimpleMapApp</string>
+    <string name="mapbox_access_token">YOUR MAPBOX ACCESS TOKEN</string>
+
+    <!--Location-->
+    <string name="toggle_customised_puck">Toggle customised puck style</string>
+    <string name="toggle_custom_map_style">Toggle custom Map style</string>
+    <string name="location_disable_component">Disable Component</string>
+    <string name="location_enable_component">Enable Component</string>
+    <string name="location_show_bearing">Show bearing image</string>
+    <string name="location_hide_bearing">Hide bearing image</string>
+    <string name="location_stop_pulsing">Stop pulsing</string>
+    <string name="location_start_pulsing">Start pulsing</string>
+    <string name="location_disable_accuracy">Disable Accuracy Ring</string>
+    <string name="location_enable_accuracy">Enable Accuracy Ring</string>
+</resources>
