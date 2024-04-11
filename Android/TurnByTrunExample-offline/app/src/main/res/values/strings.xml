@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TurnByTrunExample</string>
+    <string name="mapbox_access_token">YOUR MAPBOX ACCESS TOKEN</string>
+
+    <string name="style_pack">Style pack</string>
+    <string name="tile_region">Tile region</string>
+</resources>
